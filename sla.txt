@@ -1,2 +1,3 @@
 novo texto modificado
  hoje estou feliz
+arquivo criado com git
